@@ -8,7 +8,7 @@
         "birthDate": "1567-03-05",
         "imageUrl": {
             "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-001.png",
-            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-001_thumb.png"
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-001_thumb.jpg"
         },
         "rarity": "Legendary",
         "abilities": [
@@ -23,7 +23,7 @@
             "guildMaster": "Celestial Mage",
             "guildEmblemUrl": {
                 "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-009.png",
-                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-009_thumb.png"
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-009_thumb.jpg"
             },
             "foundedYear": 1423,
             "motto": "Balance in All, All in Balance"
@@ -38,7 +38,7 @@
         "birthDate": "1699-10-31",
         "imageUrl": {
             "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-002.png",
-            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-002_thumb.png"
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-002_thumb.jpg"
         },
         "rarity": "Epic",
         "abilities": [
@@ -53,7 +53,7 @@
             "guildMaster": "Darkness Wielder",
             "guildEmblemUrl": {
                 "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-015.png",
-                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-015_thumb.png"
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-015_thumb.jpg"
             },
             "foundedYear": 1578,
             "motto": "In Shadows, Truth"
@@ -68,7 +68,7 @@
         "birthDate": "1634-07-21",
         "imageUrl": {
             "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-003.png",
-            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-003_thumb.png"
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-003_thumb.jpg"
         },
         "rarity": "Legendary",
         "abilities": [
@@ -83,7 +83,7 @@
             "guildMaster": "Inferno Mage",
             "guildEmblemUrl": {
                 "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-021.png",
-                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-021_thumb.png"
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-021_thumb.jpg"
             },
             "foundedYear": 1492,
             "motto": "From Ashes to Flame"
@@ -98,7 +98,7 @@
         "birthDate": "1750-12-15",
         "imageUrl": {
             "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-004.png",
-            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-004_thumb.png"
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-004_thumb.jpg"
         },
         "rarity": "Epic",
         "abilities": [
@@ -113,7 +113,7 @@
             "guildMaster": "Glacier Sage",
             "guildEmblemUrl": {
                 "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-027.png",
-                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-027_thumb.png"
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-027_thumb.jpg"
             },
             "foundedYear": 1608,
             "motto": "Embrace the Chill"
@@ -128,7 +128,7 @@
         "birthDate": "1611-09-03",
         "imageUrl": {
             "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-005.png",
-            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-005_thumb.png"
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-005_thumb.jpg"
         },
         "rarity": "Legendary",
         "abilities": [
@@ -143,7 +143,7 @@
             "guildMaster": "Terra Architect",
             "guildEmblemUrl": {
                 "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-033.png",
-                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-033_thumb.png"
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-033_thumb.jpg"
             },
             "foundedYear": 1523,
             "motto": "Strength in Solidarity"
@@ -158,7 +158,7 @@
         "birthDate": "1686-04-17",
         "imageUrl": {
             "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-006.png",
-            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-006_thumb.png"
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-006_thumb.jpg"
         },
         "rarity": "Epic",
         "abilities": [
@@ -173,7 +173,7 @@
             "guildMaster": "Hurricane Herald",
             "guildEmblemUrl": {
                 "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-040.png",
-                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-040_thumb.png"
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-040_thumb.jpg"
             },
             "foundedYear": 1587,
             "motto": "Mastery Over Mayhem"
@@ -188,7 +188,7 @@
         "birthDate": "1728-05-30",
         "imageUrl": {
             "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-007.png",
-            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-007_thumb.png"
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-007_thumb.jpg"
         },
         "rarity": "Legendary",
         "abilities": [
@@ -203,7 +203,7 @@
             "guildMaster": "Luminous Sage",
             "guildEmblemUrl": {
                 "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-046.png",
-                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-046_thumb.png"
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-046_thumb.jpg"
             },
             "foundedYear": 1654,
             "motto": "In Light, Hope"
@@ -218,7 +218,7 @@
         "birthDate": "1540-11-23",
         "imageUrl": {
             "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-008.png",
-            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-008_thumb.png"
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-008_thumb.jpg"
         },
         "rarity": "Legendary",
         "abilities": [
@@ -233,7 +233,7 @@
             "guildMaster": "Cosmic Seer",
             "guildEmblemUrl": {
                 "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-052.png",
-                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-052_thumb.png"
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-052_thumb.jpg"
             },
             "foundedYear": 1476,
             "motto": "Beyond the Boundaries"
@@ -248,7 +248,7 @@
         "birthDate": "1756-06-13",
         "imageUrl": {
             "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-009.png",
-            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-009_thumb.png"
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-009_thumb.jpg"
         },
         "rarity": "Epic",
         "abilities": [
@@ -263,7 +263,7 @@
             "guildMaster": "Phantom Lord",
             "guildEmblemUrl": {
                 "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-058.png",
-                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-058_thumb.png"
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-058_thumb.jpg"
             },
             "foundedYear": 1624,
             "motto": "Whispers in the Silence"
@@ -278,7 +278,7 @@
         "birthDate": "1721-09-05",
         "imageUrl": {
             "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-010.png",
-            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-010_thumb.png"
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-010_thumb.jpg"
         },
         "rarity": "Legendary",
         "abilities": [
@@ -293,7 +293,7 @@
             "guildMaster": "Toxin Oracle",
             "guildEmblemUrl": {
                 "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-063.png",
-                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-063_thumb.png"
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-063_thumb.jpg"
             },
             "foundedYear": 1589,
             "motto": "In Poison, Power"
@@ -308,7 +308,7 @@
         "birthDate": "1494-02-29",
         "imageUrl": {
             "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-011.png",
-            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-011_thumb.png"
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-011_thumb.jpg"
         },
         "rarity": "Epic",
         "abilities": [
@@ -323,7 +323,7 @@
             "guildMaster": "Timekeeper Prime",
             "guildEmblemUrl": {
                 "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-069.png",
-                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-069_thumb.png"
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-069_thumb.jpg"
             },
             "foundedYear": 1432,
             "motto": "Eternity in a Moment"
@@ -338,7 +338,7 @@
         "birthDate": "1808-03-14",
         "imageUrl": {
             "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-012.png",
-            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-012_thumb.png"
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-012_thumb.jpg"
         },
         "rarity": "Legendary",
         "abilities": [
@@ -353,7 +353,7 @@
             "guildMaster": "Archmage Enchanter",
             "guildEmblemUrl": {
                 "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-075.png",
-                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-075_thumb.png"
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-075_thumb.jpg"
             },
             "foundedYear": 1513,
             "motto": "Mysteries Unbound"
