@@ -6,7 +6,10 @@
         "age": 457,
         "isActive": true,
         "birthDate": "1567-03-05",
-        "imageUrl": "https://example.com/images/aether-knight.jpg",
+        "imageUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-001.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-001_thumb.png"
+        },
         "rarity": "Legendary",
         "abilities": [
             "Teleportation",
@@ -18,7 +21,10 @@
             "id": "GUILD-009",
             "name": "Order of the Cosmic Veil",
             "guildMaster": "Celestial Mage",
-            "guildEmblemUrl": "https://example.com/images/guilds/cosmic-veil-emblem.jpg",
+            "guildEmblemUrl": {
+                "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-009.png",
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-009_thumb.png"
+            },
             "foundedYear": 1423,
             "motto": "Balance in All, All in Balance"
         }
@@ -30,7 +36,10 @@
         "age": 324,
         "isActive": false,
         "birthDate": "1699-10-31",
-        "imageUrl": "https://example.com/images/shadow-enchantress.jpg",
+        "imageUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-002.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-002_thumb.png"
+        },
         "rarity": "Epic",
         "abilities": [
             "Shadow Manipulation",
@@ -42,7 +51,10 @@
             "id": "GUILD-015",
             "name": "Brotherhood of the Dusk",
             "guildMaster": "Darkness Wielder",
-            "guildEmblemUrl": "https://example.com/images/guilds/dusk-brotherhood-emblem.jpg",
+            "guildEmblemUrl": {
+                "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-015.png",
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-015_thumb.png"
+            },
             "foundedYear": 1578,
             "motto": "In Shadows, Truth"
         }
@@ -54,7 +66,10 @@
         "age": 389,
         "isActive": true,
         "birthDate": "1634-07-21",
-        "imageUrl": "https://example.com/images/flame-guardian.jpg",
+        "imageUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-003.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-003_thumb.png"
+        },
         "rarity": "Legendary",
         "abilities": [
             "Fire Manipulation",
@@ -66,7 +81,10 @@
             "id": "GUILD-021",
             "name": "Circle of the Inferno",
             "guildMaster": "Inferno Mage",
-            "guildEmblemUrl": "https://example.com/images/guilds/inferno-circle-emblem.jpg",
+            "guildEmblemUrl": {
+                "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-021.png",
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-021_thumb.png"
+            },
             "foundedYear": 1492,
             "motto": "From Ashes to Flame"
         }
@@ -78,7 +96,10 @@
         "age": 273,
         "isActive": true,
         "birthDate": "1750-12-15",
-        "imageUrl": "https://example.com/images/ice-mystic.jpg",
+        "imageUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-004.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-004_thumb.png"
+        },
         "rarity": "Epic",
         "abilities": [
             "Cryokinesis",
@@ -90,7 +111,10 @@
             "id": "GUILD-027",
             "name": "Frostbind Fellowship",
             "guildMaster": "Glacier Sage",
-            "guildEmblemUrl": "https://example.com/images/guilds/frostbind-fellowship-emblem.jpg",
+            "guildEmblemUrl": {
+                "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-027.png",
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-027_thumb.png"
+            },
             "foundedYear": 1608,
             "motto": "Embrace the Chill"
         }
@@ -102,7 +126,10 @@
         "age": 412,
         "isActive": false,
         "birthDate": "1611-09-03",
-        "imageUrl": "https://example.com/images/earth-shaper.jpg",
+        "imageUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-005.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-005_thumb.png"
+        },
         "rarity": "Legendary",
         "abilities": [
             "Terrakinesis",
@@ -114,7 +141,10 @@
             "id": "GUILD-033",
             "name": "Guardians of the Terra Core",
             "guildMaster": "Terra Architect",
-            "guildEmblemUrl": "https://example.com/images/guilds/terra-core-guardians-emblem.jpg",
+            "guildEmblemUrl": {
+                "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-033.png",
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-033_thumb.png"
+            },
             "foundedYear": 1523,
             "motto": "Strength in Solidarity"
         }
@@ -126,7 +156,10 @@
         "age": 337,
         "isActive": true,
         "birthDate": "1686-04-17",
-        "imageUrl": "https://example.com/images/storm-caller.jpg",
+        "imageUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-006.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-006_thumb.png"
+        },
         "rarity": "Epic",
         "abilities": [
             "Electrokinesis",
@@ -138,7 +171,10 @@
             "id": "GUILD-040",
             "name": "Tempest Keepers",
             "guildMaster": "Hurricane Herald",
-            "guildEmblemUrl": "https://example.com/images/guilds/tempest-keepers-emblem.jpg",
+            "guildEmblemUrl": {
+                "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-040.png",
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-040_thumb.png"
+            },
             "foundedYear": 1587,
             "motto": "Mastery Over Mayhem"
         }
@@ -150,7 +186,10 @@
         "age": 295,
         "isActive": false,
         "birthDate": "1728-05-30",
-        "imageUrl": "https://example.com/images/light-weaver.jpg",
+        "imageUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-007.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-007_thumb.png"
+        },
         "rarity": "Legendary",
         "abilities": [
             "Photokinesis",
@@ -162,7 +201,10 @@
             "id": "GUILD-046",
             "name": "Harbingers of Dawn",
             "guildMaster": "Luminous Sage",
-            "guildEmblemUrl": "https://example.com/images/guilds/harbingers-of-dawn-emblem.jpg",
+            "guildEmblemUrl": {
+                "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-046.png",
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-046_thumb.png"
+            },
             "foundedYear": 1654,
             "motto": "In Light, Hope"
         }
@@ -174,7 +216,10 @@
         "age": 483,
         "isActive": true,
         "birthDate": "1540-11-23",
-        "imageUrl": "https://example.com/images/nebula-wanderer.jpg",
+        "imageUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-008.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-008_thumb.png"
+        },
         "rarity": "Legendary",
         "abilities": [
             "Gravity Manipulation",
@@ -186,7 +231,10 @@
             "id": "GUILD-052",
             "name": "Voyagers of the Starry Abyss",
             "guildMaster": "Cosmic Seer",
-            "guildEmblemUrl": "https://example.com/images/guilds/starry-abyss-voyagers-emblem.jpg",
+            "guildEmblemUrl": {
+                "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-052.png",
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-052_thumb.png"
+            },
             "foundedYear": 1476,
             "motto": "Beyond the Boundaries"
         }
@@ -198,7 +246,10 @@
         "age": 267,
         "isActive": false,
         "birthDate": "1756-06-13",
-        "imageUrl": "https://example.com/images/spectral-phantom.jpg",
+        "imageUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-009.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-009_thumb.png"
+        },
         "rarity": "Epic",
         "abilities": [
             "Intangibility",
@@ -210,7 +261,10 @@
             "id": "GUILD-058",
             "name": "Echoes of the Ethereal",
             "guildMaster": "Phantom Lord",
-            "guildEmblemUrl": "https://example.com/images/guilds/ethereal-echoes-emblem.jpg",
+            "guildEmblemUrl": {
+                "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-058.png",
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-058_thumb.png"
+            },
             "foundedYear": 1624,
             "motto": "Whispers in the Silence"
         }
@@ -222,7 +276,10 @@
         "age": 302,
         "isActive": true,
         "birthDate": "1721-09-05",
-        "imageUrl": "https://example.com/images/venom-siren.jpg",
+        "imageUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-010.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-010_thumb.png"
+        },
         "rarity": "Legendary",
         "abilities": [
             "Toxin Generation",
@@ -234,7 +291,10 @@
             "id": "GUILD-063",
             "name": "Covenant of the Noxious Mire",
             "guildMaster": "Toxin Oracle",
-            "guildEmblemUrl": "https://example.com/images/guilds/noxious-mire-covenant-emblem.jpg",
+            "guildEmblemUrl": {
+                "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-063.png",
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-063_thumb.png"
+            },
             "foundedYear": 1589,
             "motto": "In Poison, Power"
         }
@@ -246,7 +306,10 @@
         "age": 529,
         "isActive": false,
         "birthDate": "1494-02-29",
-        "imageUrl": "https://example.com/images/chrono-sage.jpg",
+        "imageUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-011.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-011_thumb.png"
+        },
         "rarity": "Epic",
         "abilities": [
             "Time Manipulation",
@@ -258,7 +321,10 @@
             "id": "GUILD-069",
             "name": "Keepers of the Hourglass",
             "guildMaster": "Timekeeper Prime",
-            "guildEmblemUrl": "https://example.com/images/guilds/hourglass-keepers-emblem.jpg",
+            "guildEmblemUrl": {
+                "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-069.png",
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-069_thumb.png"
+            },
             "foundedYear": 1432,
             "motto": "Eternity in a Moment"
         }
@@ -270,7 +336,10 @@
         "age": 215,
         "isActive": true,
         "birthDate": "1808-03-14",
-        "imageUrl": "https://example.com/images/arcane-weaver.jpg",
+        "imageUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-012.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/FTC-012_thumb.png"
+        },
         "rarity": "Legendary",
         "abilities": [
             "Spellcasting",
@@ -282,7 +351,10 @@
             "id": "GUILD-075",
             "name": "Enclave of the Mystic Arcanum",
             "guildMaster": "Archmage Enchanter",
-            "guildEmblemUrl": "https://example.com/images/guilds/mystic-arcanum-enclave-emblem.jpg",
+            "guildEmblemUrl": {
+                "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-075.png",
+                "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-075_thumb.png"
+            },
             "foundedYear": 1513,
             "motto": "Mysteries Unbound"
         }
