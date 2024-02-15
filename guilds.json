@@ -1,0 +1,134 @@
+[
+    {
+        "id": "GUILD-009",
+        "name": "Order of the Cosmic Veil",
+        "guildMaster": "Celestial Mage",
+        "guildEmblemUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-009.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-009_thumb.png"
+        },
+        "foundedYear": 1423,
+        "motto": "Balance in All, All in Balance"
+    },
+    {
+        "id": "GUILD-015",
+        "name": "Brotherhood of the Dusk",
+        "guildMaster": "Darkness Wielder",
+        "guildEmblemUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-015.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-015_thumb.png"
+        },
+        "foundedYear": 1578,
+        "motto": "In Shadows, Truth"
+    },
+    {
+        "id": "GUILD-021",
+        "name": "Circle of the Inferno",
+        "guildMaster": "Inferno Mage",
+        "guildEmblemUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-021.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-021_thumb.png"
+        },
+        "foundedYear": 1492,
+        "motto": "From Ashes to Flame"
+    },
+    {
+        "id": "GUILD-027",
+        "name": "Frostbind Fellowship",
+        "guildMaster": "Glacier Sage",
+        "guildEmblemUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-027.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-027_thumb.png"
+        },
+        "foundedYear": 1608,
+        "motto": "Embrace the Chill"
+    },
+    {
+        "id": "GUILD-033",
+        "name": "Guardians of the Terra Core",
+        "guildMaster": "Terra Architect",
+        "guildEmblemUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-033.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-033_thumb.png"
+        },
+        "foundedYear": 1523,
+        "motto": "Strength in Solidarity"
+    },
+    {
+        "id": "GUILD-040",
+        "name": "Tempest Keepers",
+        "guildMaster": "Hurricane Herald",
+        "guildEmblemUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-040.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-040_thumb.png"
+        },
+        "foundedYear": 1587,
+        "motto": "Mastery Over Mayhem"
+    },
+    {
+        "id": "GUILD-046",
+        "name": "Harbingers of Dawn",
+        "guildMaster": "Luminous Sage",
+        "guildEmblemUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-046.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-046_thumb.png"
+        },
+        "foundedYear": 1654,
+        "motto": "In Light, Hope"
+    },
+    {
+        "id": "GUILD-052",
+        "name": "Voyagers of the Starry Abyss",
+        "guildMaster": "Cosmic Seer",
+        "guildEmblemUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-052.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-052_thumb.png"
+        },
+        "foundedYear": 1476,
+        "motto": "Beyond the Boundaries"
+    },
+    {
+        "id": "GUILD-058",
+        "name": "Echoes of the Ethereal",
+        "guildMaster": "Phantom Lord",
+        "guildEmblemUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-058.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-058_thumb.png"
+        },
+        "foundedYear": 1624,
+        "motto": "Whispers in the Silence"
+    },
+    {
+        "id": "GUILD-063",
+        "name": "Covenant of the Noxious Mire",
+        "guildMaster": "Toxin Oracle",
+        "guildEmblemUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-063.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-063_thumb.png"
+        },
+        "foundedYear": 1589,
+        "motto": "In Poison, Power"
+    },
+    {
+        "id": "GUILD-069",
+        "name": "Keepers of the Hourglass",
+        "guildMaster": "Timekeeper Prime",
+        "guildEmblemUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-069.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-069_thumb.png"
+        },
+        "foundedYear": 1432,
+        "motto": "Eternity in a Moment"
+    },
+    {
+        "id": "GUILD-075",
+        "name": "Enclave of the Mystic Arcanum",
+        "guildMaster": "Archmage Enchanter",
+        "guildEmblemUrl": {
+            "large": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-075.png",
+            "small": "https://raw.githubusercontent.com/similonap/fantasy-card-game-api/main/images/GUILD-075_thumb.png"
+        },
+        "foundedYear": 1513,
+        "motto": "Mysteries Unbound"
+    }
+]
